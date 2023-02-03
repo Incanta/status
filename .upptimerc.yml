@@ -8,6 +8,8 @@ sites:
     url: https://wiki.incanta.games
   - name: Incanta API
     url: https://api.incanta.games
+  - name: Incanta API CORS Issues
+    url: $CORS_URL
 
 status-website:
   cname: status.incanta.games
@@ -20,7 +22,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
