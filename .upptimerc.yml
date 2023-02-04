@@ -13,7 +13,7 @@ sites:
 
 status-website:
   cname: status.incanta.games
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://user-images.githubusercontent.com/549323/216735372-d1ea8246-b0d0-43a7-b8f0-9229e8c29295.png
   name: Incanta Status
   introTitle: "**Incanta Games** Status Page"
   introMessage: This is the status page for the various services Incanta Games hosts (including services for Redwood and Unreal plugins).
