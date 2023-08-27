@@ -4,19 +4,19 @@
     "url": "https://redwood.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/redwood.incanta.games.ico",
     "slug": "redwood-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 403,
-    "timeWeek": 472,
-    "timeMonth": 530,
-    "timeYear": 355,
+    "time": 354,
+    "timeDay": 351,
+    "timeWeek": 447,
+    "timeMonth": 522,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-08-27": 0
+      "2023-08-27": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wiki.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.incanta.games.ico",
     "slug": "incanta-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 321,
-    "timeWeek": 347,
-    "timeMonth": 352,
+    "timeDay": 296,
+    "timeWeek": 336,
+    "timeMonth": 349,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2023-08-27": 0
+      "2023-08-27": 11
     }
   },
   {
