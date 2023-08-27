@@ -4,19 +4,19 @@
     "url": "https://redwood.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/redwood.incanta.games.ico",
     "slug": "redwood-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 351,
-    "timeWeek": 447,
-    "timeMonth": 522,
-    "timeYear": 354,
+    "time": 353,
+    "timeDay": 313,
+    "timeWeek": 422,
+    "timeMonth": 512,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-08-27": 11
+      "2023-08-27": 0
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "incanta-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 296,
     "timeWeek": 336,
     "timeMonth": 349,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2023-08-27": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Incanta API",
@@ -65,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
     "status": "up",
-    "uptime": "39.84%",
+    "uptime": "40.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.84%",
+    "uptimeYear": "40.01%",
     "time": 61,
     "timeDay": 94,
     "timeWeek": 69,
