@@ -1,7 +1,7 @@
 url: $CORS_URL
-status: down
-code: 521
-responseTime: 81
-lastUpdated: 2024-02-26T20:18:46.614Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2024-02-26T20:36:30.076Z
 startTime: 2023-02-03T23:36:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
