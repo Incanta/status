@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 141,
-    "timeWeek": 123,
+    "timeDay": 109,
+    "timeWeek": 122,
     "timeMonth": 135,
     "timeYear": 418,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 347,
-    "timeDay": 259,
-    "timeWeek": 348,
-    "timeMonth": 371,
+    "timeDay": 161,
+    "timeWeek": 321,
+    "timeMonth": 366,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2024-06-13": 29,
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 277,
-    "timeDay": 317,
-    "timeWeek": 333,
-    "timeMonth": 401,
+    "timeDay": 314,
+    "timeWeek": 326,
+    "timeMonth": 406,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2024-05-20": 20,
@@ -74,14 +74,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
     "status": "up",
-    "uptime": "75.89%",
+    "uptime": "75.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.64%",
+    "uptimeYear": "96.92%",
     "time": 96,
-    "timeDay": 94,
-    "timeWeek": 69,
+    "timeDay": 15,
+    "timeWeek": 62,
     "timeMonth": 65,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -97,8 +97,7 @@
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   }
 ]
