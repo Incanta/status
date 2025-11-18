@@ -4,19 +4,19 @@
     "url": "https://redwoodmmo.com",
     "icon": "https://icons.duckduckgo.com/ip3/redwoodmmo.com.ico",
     "slug": "redwood-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 147,
-    "timeWeek": 174,
-    "timeMonth": 176,
+    "timeDay": 126,
+    "timeWeek": 163,
+    "timeMonth": 173,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-11-18": 9,
+      "2025-11-18": 18,
       "2025-10-02": 21
     }
   },
@@ -27,9 +27,9 @@
     "slug": "incanta-wiki",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 293,
@@ -37,7 +37,7 @@
     "timeMonth": 484,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-11-18": 9
+      "2025-11-18": 18
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://api.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/api.incanta.games.ico",
     "slug": "incanta-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 180,
-    "timeWeek": 299,
-    "timeMonth": 385,
+    "time": 369,
+    "timeDay": 219,
+    "timeWeek": 298,
+    "timeMonth": 383,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$CORS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
-    "status": "down",
+    "status": "up",
     "uptime": "87.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 93,
-    "timeWeek": 91,
-    "timeMonth": 85,
+    "timeDay": 65,
+    "timeWeek": 82,
+    "timeMonth": 83,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   }
 ]
