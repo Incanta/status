@@ -45,19 +45,19 @@
     "url": "https://api.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/api.incanta.games.ico",
     "slug": "incanta-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 368,
-    "timeDay": 237,
-    "timeWeek": 280,
-    "timeMonth": 365,
-    "timeYear": 373,
+    "time": 369,
+    "timeDay": 265,
+    "timeWeek": 294,
+    "timeMonth": 368,
+    "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 132
+      "2025-11-18": 141
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$CORS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
-    "status": "down",
+    "status": "up",
     "uptime": "87.92%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 69,
-    "timeDay": 46,
-    "timeWeek": 65,
-    "timeMonth": 76,
+    "time": 70,
+    "timeDay": 51,
+    "timeWeek": 67,
+    "timeMonth": 77,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-11-18": 132
+      "2025-11-18": 141
     }
   }
 ]
