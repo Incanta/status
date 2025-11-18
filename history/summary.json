@@ -6,17 +6,17 @@
     "slug": "redwood-landing-page",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 159,
     "timeDay": 147,
     "timeWeek": 174,
     "timeMonth": 176,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 9,
       "2025-10-02": 21
     }
   },
@@ -27,9 +27,9 @@
     "slug": "incanta-wiki",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 293,
@@ -37,7 +37,7 @@
     "timeMonth": 484,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -45,35 +45,39 @@
     "url": "https://api.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/api.incanta.games.ico",
     "slug": "incanta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 210,
-    "timeWeek": 320,
-    "timeMonth": 393,
-    "timeYear": 376,
-    "dailyMinutesDown": {}
+    "time": 368,
+    "timeDay": 180,
+    "timeWeek": 299,
+    "timeMonth": 385,
+    "timeYear": 375,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Incanta API CORS Issues",
     "url": "$CORS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
-    "status": "up",
+    "status": "down",
     "uptime": "87.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 164,
-    "timeWeek": 101,
-    "timeMonth": 87,
+    "timeDay": 93,
+    "timeWeek": 91,
+    "timeMonth": 85,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
