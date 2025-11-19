@@ -11,9 +11,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 159,
-    "timeDay": 115,
-    "timeWeek": 146,
-    "timeMonth": 166,
+    "timeDay": 109,
+    "timeWeek": 143,
+    "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-11-18": 150,
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 451,
-    "timeDay": 229,
+    "timeDay": 271,
     "timeWeek": 354,
-    "timeMonth": 459,
-    "timeYear": 442,
+    "timeMonth": 470,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-11-18": 163
     }
@@ -47,17 +47,17 @@
     "slug": "incanta-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 375,
-    "timeDay": 550,
-    "timeWeek": 475,
-    "timeMonth": 440,
-    "timeYear": 381,
+    "timeDay": 580,
+    "timeWeek": 491,
+    "timeMonth": 447,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-11-18": 145
+      "2025-11-18": 132
     }
   },
   {
@@ -67,17 +67,17 @@
     "slug": "incanta-api-cors-issues",
     "status": "up",
     "uptime": "87.92%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 70,
-    "timeDay": 72,
-    "timeWeek": 78,
-    "timeMonth": 81,
+    "timeDay": 60,
+    "timeWeek": 77,
+    "timeMonth": 82,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2025-11-18": 145
+      "2025-11-18": 132
     }
   }
 ]
