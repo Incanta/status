@@ -45,9 +45,9 @@
     "url": "https://api.incanta.games",
     "icon": "https://icons.duckduckgo.com/ip3/api.incanta.games.ico",
     "slug": "incanta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -57,6 +57,7 @@
     "timeMonth": 331,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-11-18": 132
     }
   },
@@ -66,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
     "status": "up",
-    "uptime": "88.77%",
+    "uptime": "88.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
