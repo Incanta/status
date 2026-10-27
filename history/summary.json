@@ -69,17 +69,17 @@
     "url": "$CORS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "incanta-api-cors-issues",
-    "status": "up",
-    "uptime": "84.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "46.67%",
-    "uptimeMonth": "12.12%",
+    "status": "down",
+    "uptime": "84.58%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "55.82%",
+    "uptimeMonth": "14.23%",
     "uptimeYear": "76.16%",
-    "time": 137,
-    "timeDay": 220,
-    "timeWeek": 173,
-    "timeMonth": 138,
-    "timeYear": 156,
+    "time": 138,
+    "timeDay": 480,
+    "timeWeek": 236,
+    "timeMonth": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2025-11-18": 132,
       "2026-02-24": 27,
@@ -171,7 +171,8 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-07-28": 75
+      "2026-07-28": 75,
+      "2026-10-27": 0
     }
   }
 ]
